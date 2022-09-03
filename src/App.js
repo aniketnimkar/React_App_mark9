@@ -18,7 +18,7 @@ const musicDb = {
     },
     {
       name: "Raftaar",
-      rating: "4.0"
+      rating: "4/5"
     }
   ],
   westCoast_HipHop: [
@@ -28,7 +28,7 @@ const musicDb = {
     },
     {
       name: "Snoop-Dogg",
-      rating: "4.5"
+      rating: "4.5/5"
     },
     {
       name: "Dr. Dre",
